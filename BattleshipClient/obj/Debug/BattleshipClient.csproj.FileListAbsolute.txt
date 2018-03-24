@@ -1,0 +1,38 @@
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\BattleshipModel.dll
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\BattleshipModel.pdb
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\MainWindow.g.cs
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\App.g.cs
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient_MarkupCompile.cache
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient_MarkupCompile.lref
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\MainWindow.baml
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.g.resources
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.Cache
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremiah England\source\repos\Battleship\BattleshipClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\BattleshipModel.dll
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\BattleshipModel.pdb
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\MainWindow.g.cs
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\App.g.cs
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient_MarkupCompile.cache
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient_MarkupCompile.lref
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\MainWindow.baml
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.g.resources
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.Cache
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Jeremiah England\Desktop\College Semesters\2018 Spring Semester\Computer Science II\prog5\BattleshipClient\obj\Debug\BattleshipClient.pdb
